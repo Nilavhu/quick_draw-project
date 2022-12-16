@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(10, 83, 8);
+    font-family: 'Unbounded', cursive;
+    color: white;
+}
+#score{
+    float: left;
+}
+#timer{
+    float: right;
+}
+#mymodal{
+    background-color: white;
+}
